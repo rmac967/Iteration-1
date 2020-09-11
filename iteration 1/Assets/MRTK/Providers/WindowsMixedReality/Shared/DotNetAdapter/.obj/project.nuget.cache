@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YT/l0xhoZI5gpG71FLTmlv+ab0aREoPaV/XKNW7QhQHpvsks0XQWktX7SUATRYNff+S3df/Z/3jfk1WVAbSMvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slee632\\Documents\\GItHubFinal\\iteration 1\\Assets\\MRTK\\Providers\\WindowsMixedReality\\Shared\\DotNetAdapter\\DotNetAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slee632\\.nuget\\packages\\microsoft.windows.mixedreality.dotnetwinrt\\0.5.1049\\microsoft.windows.mixedreality.dotnetwinrt.0.5.1049.nupkg.sha512",
+    "C:\\Users\\slee632\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
